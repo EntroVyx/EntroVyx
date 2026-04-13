@@ -34,9 +34,8 @@ location: Brasil 🇧🇷
 
 ## `$ cat best_tools.txt`
 
-https://github.com/EntroVyx/EntroJS
+│  [✓] [EntroJS](https://github.com/EntroVyx/EntroJS)   | JavaScript Hunting
 
-│  [✓] [EntroJS (JavaScript Hunting](https://github.com/EntroVyx/EntroJS)   |
 │  [✓] [XSS Vortex](https://github.com/EntroVyx/XSSVortex)   |
 
 

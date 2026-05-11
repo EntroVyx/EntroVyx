@@ -19,19 +19,6 @@
 
 ---
 
-## `$ whoami`
-
-```yaml
-role:     Cybersecurity Professional
-focus:    Offensive Security · Security Research · Pentest Web & Infra
-location: Brasil 🇧🇷
-```
-
-> _"The quieter you become, the more you are able to hear."_
-
-
----
-
 ## `$ cat best_tools.txt`
 
 │  [✓] [EntroJS](https://github.com/EntroVyx/EntroJS)   | JavaScript Hunting
